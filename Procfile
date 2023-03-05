@@ -1,0 +1,1 @@
+web: gunicorn PruebaDockerX.wsgi --log-file -
